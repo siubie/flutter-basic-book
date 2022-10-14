@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflutter_basic_book=self.webpackChunkflutter_basic_book||[]).push([[753],{4347:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/flutter-basic-book/blog/tags/facebook","allTagsPath":"/flutter-basic-book/blog/tags","count":1}')}}]);
